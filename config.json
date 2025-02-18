@@ -1,0 +1,39 @@
+    {
+        "best_features_myy_CFS": [
+            "MagpieData range MendeleevNumber",
+            "MagpieData avg_dev MendeleevNumber",
+            "MagpieData avg_dev MeltingT",
+            "MagpieData mean NValence",
+            "MagpieData mean NsUnfilled",
+            "MagpieData maximum NUnfilled",
+            "MagpieData maximum GSvolume_pa",
+            "MagpieData avg_dev GSvolume_pa",
+            "MagpieData minimum SpaceGroupNumber",
+            "MagpieData mode SpaceGroupNumber",
+            "Lambda entropy",
+            "Electronegativity local mismatch"
+        ],
+        "best_features_zyj_CFS": [
+            "0-norm",
+            "MagpieData mean MendeleevNumber",
+            "MagpieData range Row",
+            "MagpieData avg_dev CovalentRadius",
+            "MagpieData avg_dev Electronegativity",
+            "MagpieData mode NsValence",
+            "MagpieData mean NValence",
+            "MagpieData mean NsUnfilled",
+            "MagpieData avg_dev NpUnfilled",
+            "MagpieData avg_dev GSvolume_pa",
+            "MagpieData mode SpaceGroupNumber"
+        ],
+        "HV_features": [
+            "MagpieData avg_dev AtomicWeight",
+            "MagpieData avg_dev Column",
+            "MagpieData avg_dev GSvolume_pa",
+            "avg s valence electrons",
+            "avg p valence electrons",
+            "avg d valence electrons",
+            "avg f valence electrons",
+            "Melting temperature"
+        ]
+    }
